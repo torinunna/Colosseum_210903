@@ -2,6 +2,7 @@ package com.yujin.colosseum_210903
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.yujin.colosseum_210903.utils.ServerUtil
 
 class MainActivity : BaseActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -12,6 +13,8 @@ class MainActivity : BaseActivity() {
     }
 
     override fun setupEvents() {
+
+
 
     }
 
